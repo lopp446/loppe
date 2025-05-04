@@ -1,0 +1,9 @@
+// images.js
+// This file is used to manage and export image assets for the project.
+
+export const images = {
+    logo: require('./logo.png'),
+    banner: require('./banner.jpg'),
+    icon: require('./icon.svg'),
+    // Add more images as needed
+};
